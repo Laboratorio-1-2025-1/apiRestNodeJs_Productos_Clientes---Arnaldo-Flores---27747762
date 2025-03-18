@@ -1,2 +1,7 @@
 node_modules/
 .vscode/
+.env
+package-lock.json
+data/
+pnpm-lock.yaml
+
