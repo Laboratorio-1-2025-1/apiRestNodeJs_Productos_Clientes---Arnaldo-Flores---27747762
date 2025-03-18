@@ -3,5 +3,5 @@ node_modules/
 .env
 package-lock.json
 data/
-pnpm-lock.yaml
+
 
